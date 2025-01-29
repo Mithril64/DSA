@@ -1,3 +1,10 @@
-*.*
-!*/
+# .gitignore
+
+# Step 1: Ignore ALL files by default
 *
+
+# Step 2: Un-ignore directories (to retain directory structure)
+!*/
+
+# Step 3: Un-ignore files WITH extensions (e.g., .md, .txt, .py)
+!*.*
