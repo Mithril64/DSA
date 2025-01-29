@@ -1,4 +1,8 @@
 {
   "theme": "obsidian",
-  "baseFontSize": 17
+  "baseFontSize": 18,
+  "textFontFamily": "Fira Code",
+  "monospaceFontFamily": "Fira Code",
+  "baseFontSizeAction": true,
+  "cssTheme": "AnuPpuccin"
 }
