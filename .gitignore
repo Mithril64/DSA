@@ -8,3 +8,5 @@
 
 # Step 3: Un-ignore files WITH extensions (e.g., .md, .txt, .py)
 !*.*
+
+.obsidian/
