@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "SieveOfEratosthenes"
             }
+          },
+          {
+            "id": "a957f949453dda3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BinarySearch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BinarySearch"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,9 +192,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ade7e371975014d2",
+  "active": "a957f949453dda3c",
   "lastOpenFiles": [
     "LongestPalindromicSubstring.md",
+    "BinarySearch.md",
     "SieveOfEratosthenes.md",
     "Welcome.md"
   ]
